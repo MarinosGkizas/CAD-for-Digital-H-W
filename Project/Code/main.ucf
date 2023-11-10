@@ -1,0 +1,15 @@
+net clk_in loc=t9;
+net reset loc=k4;
+net ps2clk loc=b16;
+net ps2data loc=e13;
+net hsync loc=b7;
+net vsync loc=d8;
+net rgb_out<0> loc=c9;
+net rgb_out<1> loc=e7;
+net rgb_out<2> loc=d5;
+net rgb_out<3> loc=a8;
+net rgb_out<4> loc=a5;
+net rgb_out<5> loc=c3;
+net rgb_out<6> loc=c8;
+net rgb_out<7> loc=d6;
+net rgb_out<8> loc=b1;
